@@ -1,7 +1,7 @@
 from config import Config
 
 class Translation(object):
-      START = str(Config.START) + "\n\nJoin Our [CHANNEL](https://t.me/cinethetics)"
+      START = str(Config.START) + "\n\nJOIN OUR [CHANNEL⚔️](https://t.me/cinethetics)"
 
       RULES = Config.RULES
 
