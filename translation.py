@@ -18,9 +18,9 @@ class Translation(object):
 
 ```My Group 🏷️:``` [CINIFOL!O](https://t.me/cinifolio)
                
-```📢 Bot Updates:``` [NS BOT UPDATES](https://t.me/cinetheticsbotlive)
+```📢 Bot Updates:``` [BOT STATUS](https://t.me/cinetheticsbotlive)
 
-```👽Me:``` [Ns BOT SUPPORT](https://t.me/ctsadminrobot)
+```👽Me:``` [FEEDBACK](https://t.me/ctsadminrobot)
 
 With ♥️
 """
